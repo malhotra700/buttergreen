@@ -1,0 +1,17 @@
+.bottomnavbar {
+    text-align: center;
+    width: 100% !important;
+  }
+  .active1 {
+    background-color: #379683 !important;
+    color: #edf5e1 !important;
+  }
+  .normal {
+    background-color: #edf5e1 !important;
+    color: #379683 !important;
+  }
+  .normal:hover {
+    background-color: #bbeecf !important;
+    color: #379683 !important;
+  }
+  

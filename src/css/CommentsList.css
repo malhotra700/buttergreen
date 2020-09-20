@@ -1,0 +1,8 @@
+.bg {
+    background-color: #8ee4af;
+    padding: 4px;
+  }
+  body > #root > div > div > div {
+    height: 100vh;
+  }
+  
