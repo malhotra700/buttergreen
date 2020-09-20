@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/buttergreen/static/css/main.7543d0b9.chunk.css",
+    "main.js": "/buttergreen/static/js/main.17d0f92f.chunk.js",
+    "main.js.map": "/buttergreen/static/js/main.17d0f92f.chunk.js.map",
+    "runtime-main.js": "/buttergreen/static/js/runtime-main.4296da7c.js",
+    "runtime-main.js.map": "/buttergreen/static/js/runtime-main.4296da7c.js.map",
+    "static/js/2.5dd95fbf.chunk.js": "/buttergreen/static/js/2.5dd95fbf.chunk.js",
+    "static/js/2.5dd95fbf.chunk.js.map": "/buttergreen/static/js/2.5dd95fbf.chunk.js.map",
+    "index.html": "/buttergreen/index.html",
+    "precache-manifest.90b46a74c7963143918b8e2c52343e7c.js": "/buttergreen/precache-manifest.90b46a74c7963143918b8e2c52343e7c.js",
+    "service-worker.js": "/buttergreen/service-worker.js",
+    "static/css/main.7543d0b9.chunk.css.map": "/buttergreen/static/css/main.7543d0b9.chunk.css.map",
+    "static/js/2.5dd95fbf.chunk.js.LICENSE.txt": "/buttergreen/static/js/2.5dd95fbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4296da7c.js",
+    "static/js/2.5dd95fbf.chunk.js",
+    "static/css/main.7543d0b9.chunk.css",
+    "static/js/main.17d0f92f.chunk.js"
+  ]
+}
