@@ -13,61 +13,101 @@ class BottomNavBar extends Component {
         <div className="ui pagination flex-wrap menu">
           <div
             className={this.classNameHelper(1)}
-            onClick={() => this.props.page(1, this.props.storyType,this.props.saved)}
+            onClick={() =>{
+              this.props.fetching(1);
+              this.props.page(1, this.props.storyType,this.props.saved);
+            }
+          }
           >
             1
           </div>
           <div
             className={this.classNameHelper(2)}
-            onClick={() => this.props.page(2, this.props.storyType,this.props.saved)}
+            onClick={() => {
+              this.props.fetching(2);
+              this.props.page(2, this.props.storyType,this.props.saved);
+            }
+          }
           >
             2
           </div>
           <div
             className={this.classNameHelper(3)}
-            onClick={() => this.props.page(3, this.props.storyType,this.props.saved)}
+            onClick={() =>{
+              this.props.fetching(3);
+              this.props.page(3, this.props.storyType,this.props.saved);
+            }
+          }
           >
             3
           </div>
           <div
             className={this.classNameHelper(4)}
-            onClick={() => this.props.page(4, this.props.storyType,this.props.saved)}
+            onClick={() =>{
+              this.props.fetching(4);
+              this.props.page(4, this.props.storyType,this.props.saved);
+            }
+          }
           >
             4
           </div>
           <div
             className={this.classNameHelper(5)}
-            onClick={() => this.props.page(5, this.props.storyType,this.props.saved)}
+            onClick={() =>{
+              this.props.fetching(5);
+              this.props.page(5, this.props.storyType,this.props.saved);
+            }
+          }
           >
             5
           </div>
           <div
             className={this.classNameHelper(6)}
-            onClick={() => this.props.page(6, this.props.storyType,this.props.saved)}
+            onClick={() => {
+              this.props.fetching(6);
+              this.props.page(6, this.props.storyType,this.props.saved);
+            }
+          }
           >
             6
           </div>
           <div
             className={this.classNameHelper(7)}
-            onClick={() => this.props.page(7, this.props.storyType,this.props.saved)}
+            onClick={() => {
+              this.props.fetching(7);
+              this.props.page(7, this.props.storyType,this.props.saved);
+            }
+          }
           >
             7
           </div>
           <div
             className={this.classNameHelper(8)}
-            onClick={() => this.props.page(8, this.props.storyType,this.props.saved)}
+            onClick={() => {
+              this.props.fetching(8);
+              this.props.page(8, this.props.storyType,this.props.saved);
+            }
+          }
           >
             8
           </div>
           <div
             className={this.classNameHelper(9)}
-            onClick={() => this.props.page(9, this.props.storyType,this.props.saved)}
+            onClick={() => {
+              this.props.fetching(9);
+              this.props.page(9, this.props.storyType,this.props.saved);
+            }
+          }
           >
             9
           </div>
           <div
             className={this.classNameHelper(10)}
-            onClick={() => this.props.page(10, this.props.storyType,this.props.saved)}
+            onClick={() => {
+              this.props.fetching(10);
+              this.props.page(10, this.props.storyType,this.props.saved);
+            }
+          }
           >
             10
           </div>

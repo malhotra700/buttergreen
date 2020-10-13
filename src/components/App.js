@@ -100,6 +100,7 @@ class App extends Component {
         <div className="bottombar">
           <BottomNavBar
             storyType={this.props.storyType}
+            fetching={this.props.fetchingStories}
             page={this.props.displayStories}
             currentPage={this.props.currentPage}
           />
