@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dea40725cf44151eb3a6dec42637e5a",
+    "revision": "9cf5e2e29fccca4ad5edba7936f47234",
     "url": "/buttergreen/index.html"
   },
   {
-    "revision": "93925eb89f8ba3a3b89e",
+    "revision": "5125378efb9d66038df2",
     "url": "/buttergreen/static/css/main.7543d0b9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buttergreen/static/js/2.5dd95fbf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93925eb89f8ba3a3b89e",
-    "url": "/buttergreen/static/js/main.17d0f92f.chunk.js"
+    "revision": "5125378efb9d66038df2",
+    "url": "/buttergreen/static/js/main.a7b96c79.chunk.js"
   },
   {
     "revision": "ef98ef84afb3e5978b01",
